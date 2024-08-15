@@ -30,7 +30,7 @@ pip install pandas
 
 1. Clone the Repository: If you haven't already, clone this repository to your local machine.
 ```bash
-git clone <repository_url>
+git clone <https://github.com/sherrenjie/MIT-Break-Through-Tech-Project>
 ```
 
 2. Navigate to the Project Directory: Change your working directory to the project's directory.
